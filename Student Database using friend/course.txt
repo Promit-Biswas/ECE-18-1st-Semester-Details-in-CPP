@@ -1,0 +1,91 @@
+11
+ECE_1101	Circuits_and_Systems-I					3.00
+ECE_1102	Circuits_and_Systems_-I_Sessional				1.50
+ECE_1103	Computer_Programming						3.00
+ECE_1104	Computer_Programming_Sessional					1.50
+Math_1117	Calculus_and_Co-ordinate_Geometry				3.00
+Phy_1117	Optics_and_Modern_Physics					3.00
+Phy_1118	Optics_and_Modern_Physics_Sessional				0.75
+Hum_1117	Technical_English						3.00
+Hum_1118	Technical_English_Sessional					0.75
+ECE_1100	Introduction_to_Computer_System					0.75
+12
+ECE_1201	Circuits_and_Systems_-II			3.00
+ECE_1202	Circuits_and_Systems_-II_Sessional		0.75
+ECE_1203	Object_Oriented_Programming			3.00
+ECE_1204	Object_Oriented_Programming_Sessional		1.50
+ECE_1205	Analog_Electronic_Circuits-I			3.00
+ECE_1206	Analog_Electronic_Circuits-I_Sessional		0.75
+Math_1217	Differential_Equations				3.00
+Hum_1217	Economics,_Government_&_Sociology		3.00
+ECE_1200	Electrical_Shop_Practice			1.50
+________		___________________________			0.00
+21
+ECE_2103	Data_Structure&_Algorithms		3.00
+ECE_2104	Data_Structure&_Algorithms_Sessional	1.50
+ECE_2107	Electrical_Machines-I			3.00
+ECE_2108	Electrical_Machines-I_Sessional		0.75
+ECE_2111	Digital_Techniques			3.00
+ECE_2112	Digital_Techniques_Sessional		0.75
+Math_2117	Vector_Analysis_&_Linear_Algebra	3.00
+Chem_2117	Inorganic_and_Physical_Chemistry	3.00
+Chem_2118	Inorganic_and_Physical_Chemistry_Sessional	0.75
+ECE_2100	Software_Development_Project-_I			0.75
+22
+ECE_2205	Analog_Electronic_Circuits-II			3.00
+ECE_2206	Analog_Electronic_Circuits-II_Sessional		0.75
+ECE_2213	Numerical_Methods				3.00
+ECE_2214	Numerical_Methods_Sessional			1.50
+ECE_2215	Data_Base_Systems				3.00
+ECE_2216	Data_Base_Systems_Sessional			1.50
+Math_2217	Complex_Variable,_Statistics_&_Transform_Methods	3.00
+Hum_2217	Industrial_Management_&_Accountancy		3.00
+ECE_2200	Software_Development_Project_-II		0.75
+________		___________________________		0.00
+31
+ECE_3107	Electrical_Machines_-II					3.00
+ECE_3108	Electrical_Machines_-II_Sessional			0.75
+ECE_3109	Power_System						3.00
+ECE_3111	Microprocessors_&_Assembly_Language			3.00
+ECE_3112	Microprocessors_&_Assembly_Language_Sessional		1.50
+ECE_3117	Software_Engineering_&_Information_System_Design		3.00
+ECE_3118	Software_Engineering_&_Information_System_Design_Sessional 	0.75
+ECE_3119	Computer_Architecture_and_Design			3.00
+ECE_3100	Electronic_Shop_Practice				1.50
+________		___________________________				0.00
+32
+ECE_3205	Industrial_Electronics			3.00
+ECE_3206	Industrial_Electronics_Sessional	0.75
+ECE_3211	Peripheral_and_Interfacings		3.00
+ECE_3212	Peripheral_and_Interfacings_Sessional	0.75
+ECE_3221	Operating_System			3.00
+ECE_3222	Operating_System_Sessional		0.75
+ECE_3207	Communication_Engineering		3.00
+ECE_3208	Communication_Engineering_Sessional	1.50
+ECE_3219	Computer_Aided_Instrumentations		3.00
+ECE_3220	Computer_Aided_Instrumentations_Sessional	0.75
+41
+ECE_4109	Power_Station,_Switchgear_&_Protection	3.00
+ECE_4123	Digital_Signal_Processing		3.00
+ECE_4124	Digital_Signal_Processing_Sessional	1.50
+ECE_4121	Electromagnetic_Fields_&_Waves		3.00
+ECE_41**	Optional_I				3.00
+ECE_41**	Optional_II				3.00
+ECE_41**	Optional_II_Sessional			0.75
+ECE_4100	Industrial_Training			1.00
+ECE_4122	Seminar					0.75
+ECE_4000	Thesis/_Project-I			1.50
+42
+ECE_4211	VLSI_Design				3.00
+ECE_4223	Digital_Image_Processing		3.00
+ECE_4224	Digital_Image_Processing_Sessional	1.50
+ECE_4217	Control_Systems				3.00
+ECE_4218	Control_Systems_Sessional		0.75
+ECE_42***	Optional_III				3.00
+ECE_42***	Optional_III_Sessional			0.75
+ECE_42***	Optional_IV				3.00
+ECE_42***	Optional_IV_Sessional			0.75
+ECE_4000	Thesis/_Project_-II			3.00
+
+
+
